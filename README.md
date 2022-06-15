@@ -1,2 +1,1 @@
-# armazenandodadosnavegador_mochila
-Curso de Javascrip salvando dados no Localstorage
+# alura-armazenando-na-web
